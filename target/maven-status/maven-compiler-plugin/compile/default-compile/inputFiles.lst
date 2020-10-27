@@ -1,0 +1,9 @@
+/home/jacielpc/postgres-demo/src/main/java/com/example/postgresdemo/model/AuditModel.java
+/home/jacielpc/postgres-demo/src/main/java/com/example/postgresdemo/PostgresDemoApplication.java
+/home/jacielpc/postgres-demo/src/main/java/com/example/postgresdemo/controller/AnswerController.java
+/home/jacielpc/postgres-demo/src/main/java/com/example/postgresdemo/repository/QuestionRepository.java
+/home/jacielpc/postgres-demo/src/main/java/com/example/postgresdemo/model/Question.java
+/home/jacielpc/postgres-demo/src/main/java/com/example/postgresdemo/repository/AnswerRepository.java
+/home/jacielpc/postgres-demo/src/main/java/com/example/postgresdemo/controller/QuestionController.java
+/home/jacielpc/postgres-demo/src/main/java/com/example/postgresdemo/exception/ResourceNotFoundException.java
+/home/jacielpc/postgres-demo/src/main/java/com/example/postgresdemo/model/Answer.java
